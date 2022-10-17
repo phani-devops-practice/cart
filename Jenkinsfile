@@ -2,3 +2,4 @@
 
 nodejs()
 
+env.COMPONENT="cart"
